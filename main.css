@@ -1,0 +1,54 @@
+*{
+	font-family: 'Arial';
+    font-size: 25px;
+    text-align: center;	
+}
+
+h1{
+	color:#990D2D;
+}
+
+body {
+    background-color: white;
+}
+
+.cajagrande{
+	padding-top: 60px;
+	padding-bottom: 30.5px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #23A7D7;
+}	
+
+.cajamedia{
+	padding-top: 120px;
+	padding-bottom: 30.5px;
+	margin-left: 70px;
+	margin-right: 90px;
+	background-color: #952095;
+}	
+
+.cajachica{
+	margin-left: 30px;
+	margin-right: 100px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background-color: #EEF05D;
+}	
+
+.centro {
+	width: 200px;
+	height: 65px;
+	color: white;
+	border: 2px dashed green;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	}
+
+.cajas{
+	width: 200px;
+	height: 65px;
+	color: black;
+	background-color: white;
+	padding-bottom: 2px;
+}
